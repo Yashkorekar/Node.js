@@ -34,6 +34,13 @@
 | 10 | `10-Testing` | Jest, Supertest, mocking | JUnit + MockMvc |
 | 11 | `11-Advanced` | Cluster, worker threads, caching, WS | Threads, Redis, perf tuning |
 | 12 | `12-Deployment-and-Projects` | env, Docker, capstone projects | jar/docker deploy |
+| 13 | `13-TypeScript` | Types, generics, typed Express (do last) | Java type system + `javac` |
+
+---
+
+> **On TypeScript:** it's **not required** to learn Node (Node runs plain JS), so do folders 00–12 in
+> JavaScript first. But most professional/freelance Node backends ship in TypeScript, and for a Java dev
+> the type system feels natural — so folder 13 is the recommended "level-up" once the fundamentals click.
 
 ---
 

@@ -15,6 +15,7 @@ Tick a box when you finish theory + exercises for that folder.
 - [ ] 10 - Testing
 - [ ] 11 - Advanced
 - [ ] 12 - Deployment and Projects
+- [ ] 13 - TypeScript (do after 00–12)
 
 ## Notes / things to revisit
 - 
